@@ -1,0 +1,1 @@
+shareImageButton.addEventListener('click', openCreatePostModal);
