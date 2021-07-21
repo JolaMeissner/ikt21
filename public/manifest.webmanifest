@@ -1,15 +1,14 @@
 {
-"name": "HTW-Insta Erweiterung",
-"short_name": "HTW-Insta" ,
-"start_url": "/index.html",
-"display": "standalone",
-"background_color": "#76B900",
-"theme_color": "#FF5F00",
-"description": "Eine tolle HTW-Insta-PWA",
-"lang": "de-DE",
-"dir": "ltr",
-"orientation": "portrait-primary",
-"icons": [
+  "name": "HTW-Insta Erweiterung",
+  "short_name": "HTW-Insta",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#76B900",
+  "description": "Eine tolle HTW-Insta-PWA",
+  "lang": "de-DE",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "icons": [
     {
         "src": "/src/images/icons/fiw48x48.png",
         "type": "image/png",
@@ -40,14 +39,5 @@
         "type": "image/png",
         "sizes": "484x484"
     }
-    {
-         "src": "/src/images/icons/IconBird.png",
-         "type": "image/png",
-         "sizes": "512x512"
-    }
-
   ]
-{"prefer_related_applications": "false"}
-
-
 }
